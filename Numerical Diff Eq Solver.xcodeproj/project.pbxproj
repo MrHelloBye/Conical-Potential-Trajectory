@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		857478531C0A3CDF00966227 /* Numerical Diff Eq Solver */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Numerical Diff Eq Solver"; sourceTree = BUILT_PRODUCTS_DIR; };
-		857478561C0A3CDF00966227 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		857478561C0A3CDF00966227 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; usesTabs = 1; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
