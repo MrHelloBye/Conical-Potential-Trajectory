@@ -60,7 +60,7 @@ int main() {
 		
 		if (n%(numOfSteps/10) == 0) {
 			printf("t=%g, theta=%g, r=%g\n", n*delt, theta/pi*180, rb);
-			cout << rprime*rprime+0.5*L*L/(rb*rb)+9.81*rb << endl; //Should be constant (E cons.)
+			cout << "E=" << rprime*rprime+0.5*L*L/(rb*rb)+9.81*rb << endl; //Should be constant (E cons.)
 		}
 	}
 	Plot.close();
